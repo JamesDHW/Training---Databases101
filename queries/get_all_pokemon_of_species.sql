@@ -1,0 +1,2 @@
+-- SELECT docs: https://www.postgresql.org/docs/current/sql-select.html
+SELECT * FROM pokemon WHERE species=25;
