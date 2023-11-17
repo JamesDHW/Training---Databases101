@@ -1,5 +1,5 @@
 -- CREATE TABLE docs: https://www.postgresql.org/docs/current/sql-createtable.html
-CREATE TABLE IF NOT EXISTS pokemon_trainers (
+CREATE TABLE pokemon_trainers (
 
     -- SERIAL docs: https://www.postgresql.org/docs/current/datatype-numeric.html#DATATYPE-SERIAL
     id          SERIAL          PRIMARY KEY,

@@ -1,0 +1,1 @@
+ALTER TABLE pokemon_species ADD COLUMN evolves_to INT REFERENCES pokemon_species(id);
